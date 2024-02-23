@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer: 4
+Answer: 2
 
 ------
 
@@ -48,7 +48,7 @@ Q4. Which GitHub feature provides task automation and workflow functionality, wh
 3. Pull Requests
 4. Actions
 
-Answer: 1
+Answer: 4
 
 ------
 
@@ -59,4 +59,4 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer: 1
+Answer: 3
